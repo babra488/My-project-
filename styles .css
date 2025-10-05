@@ -77,6 +77,10 @@ th {
     background-color: #f0f0f0;
 }
 
+.benefits {
+    padding: 2em;
+}
+
 footer {
     background-color: #333;
     color: #fff;
